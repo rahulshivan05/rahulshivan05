@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulshivan05 or Rahul Kumar Gupta
 - 👀 I’m interested in Web Development and Android Developement
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript Framework React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
